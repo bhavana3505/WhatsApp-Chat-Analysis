@@ -3,6 +3,7 @@ from wordcloud import WordCloud
 import string
 from collections import Counter
 from nltk.corpus import stopwords
+nltk.download('stopwords')
 import pandas as pd
 
 import re
