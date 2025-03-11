@@ -39,13 +39,14 @@ Once the app is running, upload your WhatsApp chat text file.
 
 **After uploading, you can filter the data based on:**
 
-Specific Period: Select the start and end dates for your analysis.
-Specific Person: Choose a contact to analyze their messages.
-The app will process the chat data and display various insights, including message counts, emoji usage, link analysis, and more.
-Features in Detail
-Weekly & Monthly Analysis: The app will break down the messages sent on a weekly and monthly basis, allowing you to see trends in message frequency over time.
+1. Specific Period: Select the start and end dates for your analysis.
+2. Specific Person: Choose a contact to analyze their messages.
+3. The app will process the chat data and display various insights, including message counts, emoji usage, link analysis, and more.
 
-Emoji and Link Analysis: Get a breakdown of the most frequently used emojis and links shared within your chats.
+Features in Detail
+
+1. Weekly & Monthly Analysis: The app will break down the messages sent on a weekly and monthly basis, allowing you to see trends in message frequency over time.
+2. Emoji and Link Analysis: Get a breakdown of the most frequently used emojis and links shared within your chats.
 
 **Contributing**
 Feel free to fork this repository and submit pull requests. If you find any bugs or issues, please open an issue in the repository. Contributions are welcome!
