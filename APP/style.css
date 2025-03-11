@@ -1,0 +1,53 @@
+/* style.css */
+
+.main {
+    font-family: 'Arial', sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.sidebar .sidebar-content {
+    background-color: #f0f2f6;
+}
+
+.metric-card {
+    background-color: #f4f7fc;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.section-title {
+    font-size: 28px;
+    margin-top: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.subsection-title {
+    font-size: 22px;
+    color: gray;
+    margin-bottom: 10px;
+}
+
+.stMetric {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.stDataFrame {
+    border-radius: 10px;
+}
+
+.stBarChart {
+    margin-top: 20px;
+}
+
+.stImage {
+    margin-top: 20px;
+    max-width: 100%;
+}
