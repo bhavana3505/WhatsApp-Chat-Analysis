@@ -4,13 +4,12 @@ This project allows you to analyze WhatsApp chat data through various features l
 
 **Features:**
 
-**Chat Period Analysis:** Filter and analyze chats between a specific start and end date.
-**User-Specific Analysis:** Get insights for a specific contact or person within the chat.
-**Weekly Analysis:** Visualize trends and patterns on a weekly basis.
-**Monthly Analysis:** Visualize trends and patterns on a monthly basis.
-**Emoji Usage:** Discover which emojis are most frequently used in your chats.
-**Link Analysis:** Extract and analyze links shared within the chats.
-**Message Frequency:** Track the number of messages sent per person.
+**1. Chat Period Analysis:** Filter and analyze chats between a specific start and end date.
+**2 .User-Specific Analysis:** Get insights for a specific contact or person within the chat.
+**3 .Weekly Analysis:** Visualize trends and patterns on a weekly basis.
+**4 .Monthly Analysis:** Visualize trends and patterns on a monthly basis.
+**5 .Emoji Usage:** Discover which emojis are most frequently used in your chats.
+**6 .Message Frequency:** Track the number of messages sent per person.
 
 
 How to Use :
